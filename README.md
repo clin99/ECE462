@@ -10,6 +10,7 @@ to achieve better power, performance, timing, and area.
 
 + Instructor: [Dr. Tsung-Wei Huang][Tsung-Wei Huang] 
   + Email: thuang19 at illinois dot edu
+  + GitHub: [https://github.com/twhuang-uiuc][Tsung-Wei GitHub]
 + TA: Linz Yen-Ling Chiang
   + Email: ylc2 at illinois dot edu
 + Time: 11:00 AM - 12:15 PM every Tue/Thr (excluding holidays)
@@ -44,6 +45,13 @@ The class will teach you the following topics:
 | Lecture 1 (2019/01/15) | Introduction to Logic Synthesis (I) | TBD | - | - |
 | Lecture 1 (2019/01/15) | Introduction to Logic Synthesis (II) | TBD | - | - |
 
+# Academic Integrity
+
+We have very strict academic dishonesty policy.
+The University will record any violation on your transcript.
+Please read [1‑402 ACADEMIC INTEGRITY INFRACTIONS][UIUC Academic Integrity]
+carefully to understand the consequence of any violations.
+
 # Acknowledgment
 
 The class staff appreciate many people for sharing their course materials with us 
@@ -54,15 +62,11 @@ to improve the class.
 + Hung-Ming Chen, NCTU EE
 + Pierre-Emmanuel and Xifan Tan, UT ECE
 
-# Academic Integrity
 
-We have very strict academic dishonesty policy.
-The University will record any violation on your transcript.
-Please read [1‑402 ACADEMIC INTEGRITY INFRACTIONS][UIUC Academic Integrity]
-carefully to understand the consequence of any violations.
 
 
 ---
 
 [Tsung-Wei Huang]:    https://twhuang.ece.illinois.edu/
+[Tsung-Wei GitHub]:   https://github.com/twhuang-uiuc
 [UIUC Academic Integrity]: http://studentcode.illinois.edu/article1/part4/1-401/
