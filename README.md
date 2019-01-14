@@ -14,8 +14,8 @@ to achieve better power, performance, timing, and area.
 + Room: 3081 ECE Building
 + Webpage: https://github.com/twhuang-uiuc/ECE462
 + Scoring (120% in total with 20% bonus):
-  + Midterm 1: 20% (in class)
-  + Midterm 2: 20% (in class)
+  + Midterm 1: 20%
+  + Midterm 2: 20%
   + Final: 30% (see [here](https://registrar.illinois.edu/spring-2019-non-combined-scheduling-guidelines/))
   + Homework and Machine Problem: 50%
 + Office hour: 
