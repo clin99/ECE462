@@ -4,6 +4,8 @@ This course teaches you how to extract gate-level circuits from high-level descr
 and apply top-down design methodology to optimize the designs
 to achieve better power, performance, timing, and area.
 
+<img src="images/logic_synthesis.png" width="60%">
+
 # Class Logistics
 
 + Instructor: [Dr. Tsung-Wei Huang][Tsung-Wei Huang] 
