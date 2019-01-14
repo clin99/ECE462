@@ -12,7 +12,7 @@ to achieve better power, performance, timing, and area.
   + Email: ylc2 at illinois dot edu
 + Time: 11:00 AM - 12:15 PM every Tue/Thr (excluding holidays)
 + Room: 3081 ECE Building
-+ Webpage: 
++ Webpage: https://github.com/twhuang-uiuc/ECE462
 + Scoring (120% in total with 20% bonus):
   + Midterm 1: 20% (in class)
   + Midterm 2: 20% (in class)
